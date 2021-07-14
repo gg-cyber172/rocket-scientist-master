@@ -1,0 +1,430 @@
+Apollo 1
+------------------------------
+Fuel: 1783
+Destination: Venus
+Months to Launch: 23
+---
+Stage: Boost
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Transit
+Stage Duration: 2 month(s)
+Stage Failure: false
+Update Available: true
+---
+Stage: Landing
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Exploration
+Stage Duration: 12 month(s)
+Stage Failure: false
+Update Available: true
+---
+Thrusters: 74 units (8/month)
+Instruments: 10 units (12/month)
+Control Systems: 21 units (10/month)
+Powerplants: 22 units (2/month)
+
+
+Apollo 2
+------------------------------
+Fuel: 101
+Destination: Mercury
+Months to Launch: 31
+---
+Stage: Boost
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Transit
+Stage Duration: 12 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Landing
+Stage Duration: 0 month(s)
+Stage Failure: true
+Update Available: false
+---
+Stage: Exploration
+Stage Duration: 14 month(s)
+Stage Failure: false
+Update Available: false
+---
+Thrusters: 63 units (6/month)
+Instruments: 64 units (18/month)
+Control Systems: 69 units (3/month)
+Powerplants: 49 units (8/month)
+
+
+Apollo 3
+------------------------------
+Fuel: 2220
+Destination: Jupiter
+Months to Launch: 19
+---
+Stage: Boost
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Transit
+Stage Duration: 13 month(s)
+Stage Failure: false
+Update Available: true
+---
+Stage: Landing
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Exploration
+Stage Duration: 14 month(s)
+Stage Failure: false
+Update Available: true
+---
+Thrusters: 16 units (4/month)
+Instruments: 82 units (11/month)
+Control Systems: 43 units (4/month)
+Powerplants: 53 units (6/month)
+
+
+Apollo 4
+------------------------------
+Fuel: 421
+Destination: Mercury
+Months to Launch: 22
+---
+Stage: Boost
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: true
+---
+Stage: Transit
+Stage Duration: 12 month(s)
+Stage Failure: false
+Update Available: true
+---
+Stage: Landing
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: true
+---
+Stage: Exploration
+Stage Duration: 7 month(s)
+Stage Failure: false
+Update Available: true
+---
+Thrusters: 51 units (6/month)
+Instruments: 41 units (6/month)
+Control Systems: 79 units (4/month)
+Powerplants: 81 units (2/month)
+
+
+Apollo 5
+------------------------------
+Fuel: 1330
+Destination: Mars
+Months to Launch: 25
+---
+Stage: Boost
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Transit
+Stage Duration: 11 month(s)
+Stage Failure: true
+Update Available: false
+---
+Stage: Landing
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: true
+---
+Stage: Exploration
+Stage Duration: 9 month(s)
+Stage Failure: false
+Update Available: true
+---
+Thrusters: 46 units (3/month)
+Instruments: 30 units (10/month)
+Control Systems: 28 units (11/month)
+Powerplants: 76 units (5/month)
+
+
+Apollo 6
+------------------------------
+Fuel: 938
+Destination: Mars
+Months to Launch: 5
+---
+Stage: Boost
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: true
+---
+Stage: Transit
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Landing
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Exploration
+Stage Duration: 2 month(s)
+Stage Failure: false
+Update Available: true
+---
+Thrusters: 65 units (8/month)
+Instruments: 34 units (13/month)
+Control Systems: 86 units (5/month)
+Powerplants: 71 units (5/month)
+
+
+Apollo 7
+------------------------------
+Fuel: 2561
+Destination: Jupiter
+Months to Launch: 4
+---
+Stage: Boost
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Transit
+Stage Duration: 8 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Landing
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Exploration
+Stage Duration: 10 month(s)
+Stage Failure: false
+Update Available: true
+---
+Thrusters: 66 units (8/month)
+Instruments: 39 units (11/month)
+Control Systems: 19 units (9/month)
+Powerplants: 47 units (9/month)
+
+
+Apollo 8
+------------------------------
+Fuel: 4735
+Destination: Pluto
+Months to Launch: 23
+---
+Stage: Boost
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: true
+---
+Stage: Transit
+Stage Duration: 13 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Landing
+Stage Duration: 0 month(s)
+Stage Failure: true
+Update Available: true
+---
+Stage: Exploration
+Stage Duration: 5 month(s)
+Stage Failure: false
+Update Available: true
+---
+Thrusters: 47 units (3/month)
+Instruments: 96 units (5/month)
+Control Systems: 84 units (9/month)
+Powerplants: 76 units (5/month)
+
+
+Apollo 9
+------------------------------
+Fuel: 1399
+Destination: Mars
+Months to Launch: 30
+---
+Stage: Boost
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Transit
+Stage Duration: 9 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Landing
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Exploration
+Stage Duration: 11 month(s)
+Stage Failure: false
+Update Available: false
+---
+Thrusters: 59 units (11/month)
+Instruments: 48 units (16/month)
+Control Systems: 92 units (11/month)
+Powerplants: 75 units (6/month)
+
+
+Apollo 10
+------------------------------
+Fuel: 763
+Destination: Mercury
+Months to Launch: 12
+---
+Stage: Boost
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: true
+---
+Stage: Transit
+Stage Duration: 8 month(s)
+Stage Failure: false
+Update Available: false
+---
+Stage: Landing
+Stage Duration: 0 month(s)
+Stage Failure: false
+Update Available: true
+---
+Stage: Exploration
+Stage Duration: 6 month(s)
+Stage Failure: false
+Update Available: false
+---
+Thrusters: 55 units (6/month)
+Instruments: 49 units (19/month)
+Control Systems: 67 units (2/month)
+Powerplants: 31 units (2/month)
+
+
+Mission Reports
+---
+Mission Component thrusters with (Thread ID) 7 makes request to network high after 1 months, transmission time 0.0 secs
+Mission Component thrusters with (Thread ID) 6 makes request to network high after 2 months, transmission time 0.0 secs
+Mission Component instruments with (Thread ID) 6 makes request to network high after 3 months, transmission time 1.55 secs
+Mission Component powerplants with (Thread ID) 6 makes request to network medium after 3 months, transmission time 3.62 secs
+Mission Component response with (Thread ID) 6 makes request to network high after 3 months, transmission time 0.79 secs
+Mission Component complete with (Thread ID) 6 makes request to network high after 4 months, transmission time 0.0 secs
+Mission Component thrusters with (Thread ID) 7 makes request to network high after 9 months, transmission time 0.0 secs
+Mission Component powerplants with (Thread ID) 7 makes request to network high after 10 months, transmission time 0.0 secs
+Mission Component instruments with (Thread ID) 10 makes request to network high after 4 months, transmission time 4.48 secs
+Mission Component control systems with (Thread ID) 7 makes request to network medium after 10 months, transmission time 4.67 secs
+Mission Component control systems with (Thread ID) 10 makes request to network medium after 6 months, transmission time 1.82 secs
+Mission Component control systems with (Thread ID) 10 makes request to network medium after 6 months, transmission time 1.25 secs
+Mission Component powerplants with (Thread ID) 10 makes request to network medium after 7 months, transmission time 0.76 secs
+Mission Component control systems with (Thread ID) 10 makes request to network medium after 8 months, transmission time 1.06 secs
+Mission Component powerplants with (Thread ID) 7 makes request to network medium after 10 months, transmission time 2.76 secs
+Mission Component powerplants with (Thread ID) 10 makes request to network medium after 10 months, transmission time 2.22 secs
+Mission Component thrusters with (Thread ID) 4 makes request to network high after 1 months, transmission time 0.0 secs
+Mission Component control systems with (Thread ID) 1 makes request to network high after 1 months, transmission time 0.0 secs
+Mission Component powerplants with (Thread ID) 4 makes request to network medium after 1 months, transmission time 1.64 secs
+Mission Component response with (Thread ID) 7 makes request to network high after 10 months, transmission time 4.1 secs
+Mission Component thrusters with (Thread ID) 5 makes request to network high after 1 months, transmission time 0.0 secs
+Mission Component powerplants with (Thread ID) 5 makes request to network high after 1 months, transmission time 0.0 secs
+Mission Component response with (Thread ID) 4 makes request to network high after 1 months, transmission time 3.0 secs
+Mission Component thrusters with (Thread ID) 10 makes request to network medium after 14 months, transmission time 4.44 secs
+Mission Component powerplants with (Thread ID) 1 makes request to network medium after 4 months, transmission time 3.45 secs
+Mission Component thrusters with (Thread ID) 1 makes request to network medium after 4 months, transmission time 0.55 secs
+Mission Component thrusters with (Thread ID) 8 makes request to network high after 4 months, transmission time 0.0 secs
+Mission Component control systems with (Thread ID) 10 makes request to network medium after 15 months, transmission time 1.28 secs
+Mission Component powerplants with (Thread ID) 4 makes request to network high after 3 months, transmission time 0.0 secs
+Mission Component powerplants with (Thread ID) 10 makes request to network medium after 15 months, transmission time 1.01 secs
+Mission Component response with (Thread ID) 8 makes request to network high after 4 months, transmission time 2.03 secs
+Mission Component powerplants with (Thread ID) 1 makes request to network medium after 8 months, transmission time 4.27 secs
+Mission Component response with (Thread ID) 4 makes request to network high after 3 months, transmission time 2.63 secs
+Mission Component thrusters with (Thread ID) 9 makes request to network high after 1 months, transmission time 0.0 secs
+Mission Component thrusters with (Thread ID) 1 makes request to network medium after 8 months, transmission time 2.0 secs
+Mission Component powerplants with (Thread ID) 1 makes request to network medium after 8 months, transmission time 0.87 secs
+Mission Component response with (Thread ID) 1 makes request to network high after 8 months, transmission time 0.93 secs
+Mission Component thrusters with (Thread ID) 1 makes request to network high after 9 months, transmission time 0.0 secs
+Mission Component powerplants with (Thread ID) 1 makes request to network medium after 9 months, transmission time 0.55 secs
+Mission Component control systems with (Thread ID) 4 makes request to network high after 5 months, transmission time 0.0 secs
+Mission Component powerplants with (Thread ID) 4 makes request to network high after 6 months, transmission time 0.0 secs
+Mission Component control systems with (Thread ID) 2 makes request to network high after 4 months, transmission time 0.0 secs
+Mission Component instruments with (Thread ID) 7 makes request to network high after 19 months, transmission time 9.3 secs
+Mission Component instruments with (Thread ID) 3 makes request to network high after 1 months, transmission time 16.99 secs
+Mission Component response with (Thread ID) 1 makes request to network high after 9 months, transmission time 2.3 secs
+Mission Component response with (Thread ID) 4 makes request to network high after 6 months, transmission time 2.06 secs
+Mission Component powerplants with (Thread ID) 9 makes request to network high after 7 months, transmission time 0.0 secs
+Mission Component thrusters with (Thread ID) 2 makes request to network high after 7 months, transmission time 0.0 secs
+Mission Component control systems with (Thread ID) 1 makes request to network high after 11 months, transmission time 0.0 secs
+Mission Component response with (Thread ID) 3 makes request to network high after 1 months, transmission time 2.59 secs
+Mission Component thrusters with (Thread ID) 4 makes request to network high after 7 months, transmission time 0.0 secs
+Mission Component response with (Thread ID) 1 makes request to network high after 11 months, transmission time 0.4 secs
+Mission Component control systems with (Thread ID) 2 makes request to network high after 8 months, transmission time 0.0 secs
+Mission Component powerplants with (Thread ID) 1 makes request to network high after 12 months, transmission time 0.0 secs
+Mission Component powerplants with (Thread ID) 2 makes request to network high after 9 months, transmission time 0.0 secs
+Mission Component thrusters with (Thread ID) 9 makes request to network high after 10 months, transmission time 0.0 secs
+Mission Component thrusters with (Thread ID) 7 makes request to network medium after 19 months, transmission time 4.6 secs
+Mission Component thrusters with (Thread ID) 9 makes request to network high after 11 months, transmission time 0.0 secs
+Mission Component control systems with (Thread ID) 9 makes request to network medium after 11 months, transmission time 0.9 secs
+Mission Component thrusters with (Thread ID) 3 makes request to network high after 5 months, transmission time 0.0 secs
+Mission Component control systems with (Thread ID) 2 makes request to network high after 12 months, transmission time 0.0 secs
+Mission Component control systems with (Thread ID) 3 makes request to network medium after 5 months, transmission time 1.99 secs
+Mission Component response with (Thread ID) 3 makes request to network high after 5 months, transmission time 0.2 secs
+Mission Component response with (Thread ID) 9 makes request to network high after 11 months, transmission time 2.9 secs
+Mission Component powerplants with (Thread ID) 3 makes request to network high after 7 months, transmission time 0.0 secs
+Mission Component thrusters with (Thread ID) 9 makes request to network high after 12 months, transmission time 0.0 secs
+Mission Component control systems with (Thread ID) 9 makes request to network medium after 12 months, transmission time 1.76 secs
+Mission Component response with (Thread ID) 3 makes request to network high after 7 months, transmission time 1.45 secs
+Mission Component instruments with (Thread ID) 8 makes request to network high after 14 months, transmission time 16.38 secs
+Mission Component response with (Thread ID) 9 makes request to network high after 12 months, transmission time 1.38 secs
+Mission Component powerplants with (Thread ID) 9 makes request to network high after 14 months, transmission time 0.0 secs
+Mission Component powerplants with (Thread ID) 8 makes request to network medium after 14 months, transmission time 2.8 secs
+Mission Component thrusters with (Thread ID) 3 makes request to network high after 10 months, transmission time 0.0 secs
+Mission Component thrusters with (Thread ID) 8 makes request to network medium after 14 months, transmission time 4.78 secs
+Mission Component control systems with (Thread ID) 8 makes request to network medium after 14 months, transmission time 0.6 secs
+Mission Component control systems with (Thread ID) 3 makes request to network medium after 10 months, transmission time 4.77 secs
+Mission Component response with (Thread ID) 3 makes request to network high after 10 months, transmission time 0.5 secs
+Mission Component instruments with (Thread ID) 4 makes request to network high after 20 months, transmission time 16.59 secs
+Mission Component instruments with (Thread ID) 1 makes request to network high after 15 months, transmission time 15.94 secs
+Mission Component powerplants with (Thread ID) 4 makes request to network medium after 20 months, transmission time 1.48 secs
+Mission Component thrusters with (Thread ID) 8 makes request to network medium after 14 months, transmission time 3.77 secs
+Mission Component complete with (Thread ID) 1 makes request to network medium after 15 months, transmission time 0.05 secs
+Mission Component instruments with (Thread ID) 8 makes request to network high after 14 months, transmission time 4.18 secs
+Mission Component powerplants with (Thread ID) 8 makes request to network medium after 14 months, transmission time 0.6 secs
+Mission Component instruments with (Thread ID) 3 makes request to network high after 18 months, transmission time 6.24 secs
+Mission Component powerplants with (Thread ID) 3 makes request to network medium after 18 months, transmission time 1.28 secs
+Mission Component control systems with (Thread ID) 3 makes request to network medium after 18 months, transmission time 1.2 secs
+Mission Component update with (Thread ID) 8 makes request to network high after 14 months, transmission time 6.21 secs
+Mission Component response with (Thread ID) 8 makes request to network high after 14 months, transmission time 0.62 secs
+Mission Component thrusters with (Thread ID) 3 makes request to network medium after 18 months, transmission time 0.26 secs
+Mission Component instruments with (Thread ID) 9 makes request to network high after 21 months, transmission time 14.49 secs
+Mission Component thrusters with (Thread ID) 8 makes request to network high after 16 months, transmission time 0.0 secs
+Mission Component control systems with (Thread ID) 3 makes request to network medium after 18 months, transmission time 4.59 secs
+Mission Component response with (Thread ID) 3 makes request to network high after 18 months, transmission time 4.09 secs
+Mission Component thrusters with (Thread ID) 3 makes request to network high after 21 months, transmission time 0.0 secs
+Mission Component instruments with (Thread ID) 8 makes request to network high after 16 months, transmission time 14.97 secs
+Mission Component powerplants with (Thread ID) 8 makes request to network medium after 16 months, transmission time 0.92 secs
+Mission Component control systems with (Thread ID) 3 makes request to network medium after 21 months, transmission time 4.55 secs
+Mission Component thrusters with (Thread ID) 8 makes request to network medium after 16 months, transmission time 0.97 secs
+Mission Component powerplants with (Thread ID) 3 makes request to network medium after 21 months, transmission time 0.55 secs
+Mission Component response with (Thread ID) 3 makes request to network high after 21 months, transmission time 1.51 secs
+Mission Component response with (Thread ID) 8 makes request to network high after 16 months, transmission time 2.73 secs
+Mission Component instruments with (Thread ID) 3 makes request to network high after 28 months, transmission time 7.87 secs
+Mission Component instruments with (Thread ID) 8 makes request to network high after 18 months, transmission time 10.5 secs
+Mission Component thrusters with (Thread ID) 3 makes request to network medium after 28 months, transmission time 4.03 secs
+Mission Component powerplants with (Thread ID) 8 makes request to network medium after 18 months, transmission time 2.9 secs
+Mission Component response with (Thread ID) 8 makes request to network high after 18 months, transmission time 0.88 secs
+Mission Component complete with (Thread ID) 8 makes request to network high after 19 months, transmission time 0.0 secs
